@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nreiter29
+- 👋 Hi, I’m @nroth
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 
